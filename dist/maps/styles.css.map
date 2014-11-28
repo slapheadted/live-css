@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.less"],"names":[],"mappings":"AAAA;EACC,WAAA;EACA,eAAA","file":"styles.css","sourcesContent":["h1 {\r\n\tcolor: #000;\r\n\tfont-size: 50px\r\n}"],"sourceRoot":"/source/"}

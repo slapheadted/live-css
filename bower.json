@@ -1,0 +1,22 @@
+{
+  "name": "css_live_reload",
+  "version": "0.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Chris Saunders"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "less": "~2.1.1"
+  }
+}
